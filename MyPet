@@ -1,0 +1,3 @@
+let namePet = 'Koko'
+let nameFoodPet = 'MeO'
+console.log(`My pet name is ${namePet} ,name food is ${nameFoodPet}`)
